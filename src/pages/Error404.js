@@ -1,9 +1,11 @@
 import React from 'react';
+import Logo from '../components/Logo';
 
 const Error404 = () => {
   return (
     <div>
-      <h1>Error 404</h1>
+  <Logo/>
+     <h1>Error 404</h1>
       <h1>Error 404</h1>
       <h1>Error 404</h1>
       <h1>Error 404</h1>

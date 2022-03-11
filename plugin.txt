@@ -8,3 +8,5 @@ Mithril Emmet
 Dans settings.json, rajouter :
 
 "emmet.includeLanguages": { "javascript": "javascriptreact" }, "emmet.triggerExpansionOnTab": true
+lien api : 
+https://restcountries.com/v3.1/all
