@@ -23,11 +23,11 @@
 
       &::after {
         content: "";
-        height: 4px;
+        height: 2px;
         width: 0;
         background: $color-1;
         position: absolute;
-        border-radius: 10px;
+        border-radius: 8px;
         bottom: 0px;
         left: 50%;
         transform: translateX(-50%);
